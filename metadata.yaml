@@ -1,0 +1,42 @@
+_repo: A-system-of-practical-medicine-By-American-authors-Vol-5-b-Diseases-of-the-Nervous-System_71892
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Various
+    aliases:
+    - Verschillende
+    - Various, Various
+    gutenberg_agent_id: '116'
+    url: http://www.gutenberg.org/2009/agents/116
+  editors:
+  - agent_name: Pepper, William
+    alias: Pepper, W. (William)
+    birthdate: 1843
+    deathdate: 1898
+    gutenberg_agent_id: '39870'
+    url: http://www.gutenberg.org/2009/agents/39870
+    wikipedia: https://en.wikipedia.org/wiki/William_Pepper
+  - agent_name: Starr, Louis
+    birthdate: 1849
+    deathdate: 1925
+    gutenberg_agent_id: '39871'
+    url: http://www.gutenberg.org/2009/agents/39871
+description: ''
+gutenberg_issued: '2023-10-16'
+identifiers:
+  gutenberg: '71892'
+language: en
+pgterms:marc904: https://archive.org/details/systemofpractica05peppuoft
+pgterms:marc905: 20211106062727pepper
+pgterms:marc906: '1886'
+pgterms:marc907: US
+production_note: Ron Swanson
+publication_note: '  $aPhiladelphia :$bLea Brothers & Co., $c1886.'
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: 'A system of practical medicine. By American authors, Vol. 5 : $b Diseases
+  of the Nervous System'
+url: http://www.gutenberg.org/ebooks/71892
