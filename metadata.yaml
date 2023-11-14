@@ -1,5 +1,8 @@
 _repo: A-system-of-practical-medicine-By-American-authors-Vol-5-b-Diseases-of-the-Nervous-System_71892
 _version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: Various
@@ -22,6 +25,8 @@ creator:
     gutenberg_agent_id: '39871'
     url: http://www.gutenberg.org/2009/agents/39871
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/71892#A-system-of-practical-medicine-By-American-authors-Vol-5-b-Diseases-of-the-Nervous-System
 gutenberg_issued: '2023-10-16'
 identifiers:
   gutenberg: '71892'
